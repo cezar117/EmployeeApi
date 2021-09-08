@@ -1,0 +1,12 @@
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\bin\Debug\net5.0\EmployeeApi.Entities.deps.json
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\bin\Debug\net5.0\EmployeeApi.Entities.dll
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\bin\Debug\net5.0\ref\EmployeeApi.Entities.dll
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\bin\Debug\net5.0\EmployeeApi.Entities.pdb
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\EmployeeApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\EmployeeApi.Entities.AssemblyInfoInputs.cache
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\EmployeeApi.Entities.AssemblyInfo.cs
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\EmployeeApi.Entities.csproj.CoreCompileInputs.cache
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\EmployeeApi.Entities.dll
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\ref\EmployeeApi.Entities.dll
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\EmployeeApi.Entities.pdb
+C:\repositorio_viajaclick\PRUEBAS\EmployeeAPI\EmployeeApi.Entities\obj\Debug\net5.0\EmployeeApi.Entities.csprojAssemblyReference.cache
